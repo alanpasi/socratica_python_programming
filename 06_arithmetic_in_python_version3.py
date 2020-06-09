@@ -34,8 +34,8 @@ print(a * 7)  # int * int
 # Division
 print(c / b)  # complex / float
 
-print(16 / 5)
+print(16 / 5)  # Result a float
 print(20 / 5)
-print(16 % 5)
-print(16 // 5)
+print(16 % 5)  # Remainder
+print(16 // 5)  # Quotient
 print(2 / 0)  # ZeroDivisionError: division by zero
